@@ -1,16 +1,19 @@
 # Topic Title
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-This is a wiki page for the repository created for GEOG 595 offered byprofessor Bo Zhao, Univeristy of Washington.  / The topic is on using Github. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+This is a wiki page for the repository created for GEOG 595 offered byprofessor Bo Zhao, Univeristy of Washington. The topic is on **using Github** following the instructions provided by [this webpage](https://github.com/jakobzhao/geog595/tree/master/02_cyber) and the [documentation](https://docs.github.com/en/repositories).
 
 
-## Section 1
-One or several paragraphs.
 
-## Section 2
+
+
+## Reading materials
+
+
+## Think piece
 One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
+### CyberGIS framework
+*Wang (2010)* proposed the CyberGIS framework for synthesizing geographic information systems (GIS), spatial analysis, and cyberinfrastructure (CI). The urge of such a framework originates from the incompatibility between solving computationally intensive and collaborative problems and the single central processing unit (CPU) and single user interface in many fields. 
 ### (Optional) Subsection 2
 One or several paragraphs.
 
