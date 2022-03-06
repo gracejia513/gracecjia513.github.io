@@ -1,4 +1,4 @@
-# Topic Title
+# Reflection on CyberGIS
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 This is a wiki page for the repository created for GEOG 595 offered byprofessor Bo Zhao, Univeristy of Washington. The topic is on **using Github** following the instructions provided by [this webpage](https://github.com/jakobzhao/geog595/tree/master/02_cyber) and the [documentation](https://docs.github.com/en/repositories).
@@ -20,7 +20,8 @@ The other reading material *Zhao and Huang(2020)* introduced the encrypted monum
 
 
 ### Diagram of relationship between built environment and society
-<img src="/Users/gracejia/Documents/A-UW/2022 winter/GEOG595/595_github/gracejia513.github.io/built env and society.png">
+![][https://github.com/gracejia513/gracejia513.github.io/blob/main/built%20env%20and%20society.png?raw=true]
+<!-- <img src="/Users/gracejia/Documents/A-UW/2022 winter/GEOG595/595_github/gracejia513.github.io/built env and society.png"> -->
 
 
 
