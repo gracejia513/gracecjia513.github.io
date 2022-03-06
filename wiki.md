@@ -20,7 +20,7 @@ The other reading material *Zhao and Huang(2020)* introduced the encrypted monum
 
 
 ### Diagram of relationship between built environment and society
-![][https://github.com/gracejia513/gracejia513.github.io/blob/main/built%20env%20and%20society.png?raw=true]
+![](https://github.com/gracejia513/gracejia513.github.io/blob/main/built%20env%20and%20society.png?raw=true)
 <!-- <img src="/Users/gracejia/Documents/A-UW/2022 winter/GEOG595/595_github/gracejia513.github.io/built env and society.png"> -->
 
 
